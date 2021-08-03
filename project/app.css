@@ -1,0 +1,29 @@
+body{
+    
+    height: 150vh;
+    background-image: url(palm\ trees.jpg);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+   
+}
+h1{
+    text-align: center;
+    
+}
+#info{color: white;
+    font-size: 32px;
+    
+}
+#image{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 20rem
+    
+   
+    
+   
+}
+
